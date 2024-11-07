@@ -29,20 +29,14 @@ footer p{
 }
 
 .cartao{
-    margin: 1rem;
+    margin: 2rem;
     height: 20rem;
     background-color: #D8BFD8;
-    border-radius: 10px;
-
 }
 
 .cartao-conteudo{
     text-align: center;
-    border-radius: 10px;
-    height: 80%;
-    background-color: var(--cor-cartao-frente);
-    transform-style:preserve-3d;
-    transition:trasform 300ms ease-in-out;
+    height: 100%;
 }
 
 .cartao-conteudo h3{
